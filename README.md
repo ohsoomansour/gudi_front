@@ -1,4 +1,4 @@
-# my-vue-app
+# my-vue-app  test:osm
 
 ## Project setup
 
