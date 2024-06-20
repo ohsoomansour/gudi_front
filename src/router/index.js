@@ -24,11 +24,12 @@ const routes = [
         path: ":type/:menu",
         component: () => import("../views/Content.vue"),
       },
+      /*
       {
         path: "/myPage",
         name:"mypage",
         component: () => import("../views/MyPage.vue"),        
-      }, 
+      },*/ 
       {
         path: "/tCourse/course",
         name: "tCourseDetail",
@@ -44,23 +45,23 @@ const routes = [
         name: "sLectureDetailRegister",
         component: () => import("@/views/classroom/SLectureDetailRegister.vue"),
       },
+      /*/
       {
         path: "/information/student",
         name: "aStudentAttendance",
         component: () => import("@/views/information/AStudentAttendance.vue"),
-      },
+      },*/
       {
         path: "information/hrinfo",  // / 주의 
         name: "hrInfo",
         component: () => import("@/views/information/HrInfo.vue"),
       },
+      /*
       {
         path: "/information/survey",
         name: "aSurveyManagement",
         component: () => import("@/views/information/ASurveyManagement.vue"),
-      },
-      
-      
+      },*/
     ],
     component: Dashboard,
   },

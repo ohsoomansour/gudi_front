@@ -105,6 +105,7 @@ export default {
           })
           sessionStorage.setItem('loginInfo', JSON.stringify(data))
           sessionStorage.setItem('loginID', JSON.stringify(data.loginId))
+          sessionStorage.setItem('user_type', JSON.stringify(data.user_type))
           if(data.user_type === 'a'){
             this.$router.push('/dashboard/aAlert/notice');
           } else if(data.user_type === 't'){
