@@ -8,11 +8,10 @@
 2024년 5월 21 ~ 6.21 
 
 ### ⚙️개발 환경
- + Node.js
- + **FrontEnd**:Vue.js
- + **BackEnd**: java
-  **Framework**: egov
+ + **언어**: Javascript, Node.js
+ + **라이브러리**:Vue.js
   **Database**: MySQL
+  **기타**: Visual Studio code
 
 ## 📌오수만 주요 기능 담당
 
