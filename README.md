@@ -29,6 +29,7 @@
 <img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/b05e5177-8dfc-4078-a124-4adfe4502463">
 <img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/0ae6c717-c6b7-487c-951a-2f5370dbad1e">
 <img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/50dec178-811a-45e6-8519-e51c98f9db45">
+
 ## 사용자 정보 수정
 + 디렉토리 경로: src/views/information/EditMember.vue
 <img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/db72f608-abe0-42c2-95be-bc876c012b1a">
