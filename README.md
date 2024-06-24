@@ -17,12 +17,18 @@
 
 ## 회원가입 
 + 디렉토리 경로: src/views/information/AMemberRegistration.vue
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/ee0ec8f7-e513-4412-acb4-444648e09440">
 
 ## 로그인
 + 디렉토리 경로: src/views/Login.vue
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/008e8f49-ee58-49a8-9b21-44bb6c058c10">
 
 ## 인원관리
 + 디렉토리 경로:src/views/information/HrInfo.vue 
-
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/bfc93def-a7fe-43a9-b317-bdf94e38b793">
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/b05e5177-8dfc-4078-a124-4adfe4502463">
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/0ae6c717-c6b7-487c-951a-2f5370dbad1e">
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/50dec178-811a-45e6-8519-e51c98f9db45">
 ## 사용자 정보 수정
 + 디렉토리 경로: src/views/information/EditMember.vue
+<img src="https://github.com/gudiedu/gudi_edu_front/assets/98678172/db72f608-abe0-42c2-95be-bc876c012b1a">
